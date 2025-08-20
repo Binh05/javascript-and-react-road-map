@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "An",
+    "age": 20,
+    "gender": "male",
+    "scores": { "math": 8, "english": 7, "programming": 9 }
+  },
+  {
+    "id": 2,
+    "name": "Bình",
+    "age": 22,
+    "gender": "male",
+    "scores": { "math": 6, "english": 5, "programming": 7 }
+  },
+  {
+    "id": 3,
+    "name": "Chi",
+    "age": 21,
+    "gender": "female",
+    "scores": { "math": 9, "english": 8, "programming": 10 }
+  },
+  {
+    "id": 4,
+    "name": "Dung",
+    "age": 19,
+    "gender": "female",
+    "scores": { "math": 7, "english": 9, "programming": 8 }
+  },
+  {
+    "id": 5,
+    "name": "Hoàng",
+    "age": 23,
+    "gender": "male",
+    "scores": { "math": 5, "english": 6, "programming": 6 }
+  },
+  {
+    "id": 6,
+    "name": "Lan",
+    "age": 20,
+    "gender": "female",
+    "scores": { "math": 10, "english": 9, "programming": 9 }
+  },
+  {
+    "id": 7,
+    "name": "Minh",
+    "age": 22,
+    "gender": "male",
+    "scores": { "math": 8, "english": 8, "programming": 7 }
+  },
+  {
+    "id": 8,
+    "name": "Ngọc",
+    "age": 21,
+    "gender": "female",
+    "scores": { "math": 7, "english": 10, "programming": 9 }
+  },
+  {
+    "id": 9,
+    "name": "Phúc",
+    "age": 20,
+    "gender": "male",
+    "scores": { "math": 6, "english": 7, "programming": 8 }
+  },
+  {
+    "id": 10,
+    "name": "Quỳnh",
+    "age": 19,
+    "gender": "female",
+    "scores": { "math": 9, "english": 8, "programming": 9 }
+  }
+]
